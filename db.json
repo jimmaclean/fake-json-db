@@ -1,0 +1,14 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "address": {
+                "street": "2 park court",
+                "town": "London",
+                "postcode": "W1A 6PK"
+            },
+            "bedrooms": 3,
+            "price": "£3,250,000.00"
+        }
+    ]
+}
