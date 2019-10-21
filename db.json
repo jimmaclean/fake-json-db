@@ -1,14 +1,34 @@
 {
-    "properties": [
-        {
-            "id": 1,
-            "address": {
-                "street": "2 park court",
-                "town": "London",
-                "postcode": "W1A 6PK"
-            },
-            "bedrooms": 3,
-            "price": "£3,250,000.00"
-        }
-    ]
+  "properties": [
+    {
+      "id": 0,
+      "address": {
+        "street": "2 park court",
+        "town": "London",
+        "postcode": "W1A 6PK"
+      },
+      "bedrooms": 3,
+      "price": "£3,250,000.00"
+    },
+    {
+      "id": 1,
+      "address": {
+        "street": "13 Church road",
+        "town": "London",
+        "postcode": "W1A 6PN"
+      },
+      "bedrooms": 2,
+      "price": "£2,400,000.00"
+    },
+    {
+      "address": {
+        "street": "1a, 22 Barings street",
+        "town": "London",
+        "postcode": "W1A 5XR"
+      },
+      "bedrooms": 3,
+      "price": "£2,950,000.00",
+      "id": 2
+    }
+  ]
 }

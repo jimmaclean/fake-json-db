@@ -10,7 +10,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "json-server db.json"
+    "serve": "json-server generate.js"
   },
   "repository": {
     "type": "git",
